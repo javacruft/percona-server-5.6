@@ -1,2 +1,2 @@
-usr/share/mysql-test/mysql-test-run.pl usr/share/mysql-test/mysql-test-run
-usr/share/mysql-test/mysql-test-run.pl usr/share/mysql-test/mtr
+usr/lib/mysql-testsuite/mysql-test-run.pl usr/lib/mysql-testsuite/mysql-test-run
+usr/lib/mysql-testsuite/mysql-test-run.pl usr/lib/mysql-testsuite/mtr
